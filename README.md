@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<p align="center">After i develope a passion for technology.<br></br>I have become qualified as a freelance programmer and web developer, acquiring advanced skills in frontend programming languages, as well as in content
+management systems.</p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
 &nbsp;
 &nbsp;
 
