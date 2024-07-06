@@ -5,8 +5,9 @@ management systems.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rabellods94&theme=dark&mode=weekly" />
-</div>
-<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-Rabellods94.vercel.app/api/top-langs/?username=Rabellods94&show_icons=true&theme=dark&layout=compact" /> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabellods94)](https://github.com/anuraghazra/github-readme-stats) -->
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabellods94&show_icons=true&theme=dark&layout=compact" />
+ </div>
  
 &nbsp;
 &nbsp;
