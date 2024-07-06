@@ -4,9 +4,9 @@
 management systems.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rabellods94&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Rabellods94&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rabellods94&theme=dark&mode=weekly" />
+</div>
+<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-Rabellods94.vercel.app/api/top-langs/?username=Rabellods94&show_icons=true&theme=dark&layout=compact" /> /!>
  
 &nbsp;
 &nbsp;
@@ -64,5 +64,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-!/>
 
